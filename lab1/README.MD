@@ -6,3 +6,4 @@ In order to run this labs you should have been install Docker
 docker build . -t lab1 && docker run lab1:latest
 
 ```
+![alt text](lab1-result.png)
