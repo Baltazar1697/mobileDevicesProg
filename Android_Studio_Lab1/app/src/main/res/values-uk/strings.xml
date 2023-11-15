@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="followers">читають</string>
+    <string name="following">читає</string>
+    <string name="posts">пости</string>
+    <string name="avatar">Аватар</string>
+    <string name="add_user">Додати юзера</string>
+    <string name="mic">Мікрофон</string>
+    <string name="call_end">Завершити Дзвінок</string>
+    <string name="calling">Дзвонить…</string>
+    <string name="volume_up">volume up</string>
+    <string name="back_button">Кнопка назад</string>
+
+</resources>
